@@ -1,6 +1,6 @@
 import { Box, Drawer, IconButton, TextField, Typography } from "@mui/material"
 import React, { useState } from "react"
-import { Navigate, useNavigate } from "react-router-dom"
+import { useNavigate } from "react-router-dom"
 import SearchIcon from "@mui/icons-material/Search"
 import CloseIcon from "@mui/icons-material/Close"
 
